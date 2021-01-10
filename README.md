@@ -12,6 +12,9 @@
     <link rel="stylesheet" href="assets/css/owl.css"/>
     <link rel="stylesheet" href="assets/css/lightbox.css"/>
     <style>
+	.markdown-body h2 {
+	    border-bottom: 0!important;
+	}
 	ul {
 	    padding:0!important;
 	    margin: 0!important;
