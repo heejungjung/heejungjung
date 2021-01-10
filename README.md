@@ -12,6 +12,20 @@
     <link rel="stylesheet" href="assets/css/owl.css"/>
     <link rel="stylesheet" href="assets/css/lightbox.css"/>
     <style>
+	.my-5 {
+	    margin-bottom: 0!important;
+	}
+	.px-3 {
+	    padding-left: 0!important;
+	}
+	.container-lg {
+	    max-width: 100%;
+	    margin-right: 0;
+	    margin-left: 0;
+	}
+	.container-lg h1{
+	    visibility: hidden;
+	}
 	.timeline {
 	    padding: 50px 0;
 	    position: relative;
