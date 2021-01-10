@@ -12,6 +12,10 @@
     <link rel="stylesheet" href="assets/css/owl.css"/>
     <link rel="stylesheet" href="assets/css/lightbox.css"/>
     <style>
+	ul {
+	    padding:0!important;
+	    margin: 0!important;
+	}
 	.my-5 {
 	    padding:0!important;
 	    margin: 0!important;
