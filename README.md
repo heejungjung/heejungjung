@@ -6,7 +6,7 @@
     <meta name="author" content="" />
     <link href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900" rel="stylesheet" />
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
-    <link rel="shortcut icon" href="assets/images/icon.ico">
+    <link rel="shortcut icon" href="assets/images/icon.ico" type="image/x-icon" />
     <link rel="stylesheet" href="assets/css/fontawesome.css"/>
     <link rel="stylesheet" href="assets/css/templatemo-style.css"/>
     <link rel="stylesheet" href="assets/css/owl.css"/>
