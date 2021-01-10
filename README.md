@@ -13,22 +13,25 @@
     <link rel="stylesheet" href="assets/css/lightbox.css"/>
     <style>
 	.my-5 {
-	    padding:0;!important;
+	    padding:0!important;
 	    margin: 0!important;
 	}
 	.px-3 {
-	    padding:0;!important;
+	    padding:0!important;
 	    margin: 0!important;
 	}
 	.container-lg {
-	    padding:0;!important;
+	    padding:0!important;
 	    margin: 0!important;
 	    max-width: 100%;
 	    margin-right: 0;
 	    margin-left: 0;
 	}
 	.container-lg h1{
-	    display:none;
+	    display:none!important;
+	}
+	.anchorjs-link {
+	    display:none!important;
 	}
 	.timeline {
 	    padding: 50px 0;
@@ -249,7 +252,7 @@
       <section class="section about-me" data-section="section1">
         <div class="container">
           <div class="section-heading">
-            <h1>자기 소개</h1>
+            <h2>자기 소개</h2>
             <div class="line-dec"></div><br>
             <h4>안녕하세요, 저는 정희정입니다.😀</h4><br>
 		    <p>👉 저는 풀스택 개발자를 목표로 하고 있습니다.</p>
