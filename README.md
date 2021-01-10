@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8" />
@@ -7,16 +6,12 @@
     <meta name="author" content="" />
     <link href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900" rel="stylesheet" />
     <title>HuijeongJeong</title>
-	<!-- Reflux Template https://templatemo.com/tm-531-reflux -->
-    <!-- Bootstrap core CSS -->
-    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
-	<link rel="shortcut icon" href="assets/images/icon.ico">
-
-    <!-- Additional CSS Files -->
-    <link rel="stylesheet" href="assets/css/fontawesome.css" />
-    <link rel="stylesheet" href="assets/css/templatemo-style.css" />
-    <link rel="stylesheet" href="assets/css/owl.css" />
-    <link rel="stylesheet" href="assets/css/lightbox.css" />
+    <link href="/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="shortcut icon" href="/assets/images/icon.ico">
+    <link rel="stylesheet" href="/assets/css/fontawesome.css"/>
+    <link rel="stylesheet" href="/assets/css/templatemo-style.css"/>
+    <link rel="stylesheet" href="/assets/css/owl.css"/>
+    <link rel="stylesheet" href="/assets/css/lightbox.css"/>
     <style>
 	.timeline {
 	    padding: 50px 0;
@@ -63,7 +58,6 @@
 	.timeline-nodes:nth-child(odd) .timeline-date {
 	    text-align: left;
 	}
-	 
 	.timeline-nodes:nth-child(even) .timeline-date {
 	    text-align: right;
 	}
@@ -171,8 +165,6 @@
 	    height: 65px;
 	}
 	}
-	
-	/*extra small device style */
 	@media (max-width: 575px) {
 	    .timeline::before {
 	    content: "";
@@ -192,7 +184,6 @@
 	}
 	</style>
   </head>
-
   <body>
     <div id="page-wraper">
       <!-- Sidebar Menu -->
@@ -238,7 +229,6 @@
           </div>
         </div>
       </div>
-
       <section class="section about-me" data-section="section1">
         <div class="container">
           <div class="section-heading">
@@ -249,7 +239,6 @@
 			<p>👉 데이터 분석,백엔드,웹 개발 등 코딩으로 무엇인가를 만들고 결과를 도출해내는 것을 즐깁니다.</p>
 			<p>👉 배움을 멈추지 않고 계속 도전해나가는 삶을 살고 싶습니다.</p>
           </div>
-          
           <div class="right-image-post">
           <div class="container">
 		      <div class="timeline">
@@ -426,7 +415,6 @@
           </div>
         </div>
       </section>
-
       <section class="section my-services" data-section="section2">
         <div class="container">
           <div class="section-heading">
@@ -485,7 +473,6 @@
           </div>
         </div>
       </section>
-
       <section class="section my-services" data-section="section2-1">
         <div class="container">
           <div class="section-heading">
@@ -536,7 +523,6 @@
           </div>
         </div>
       </section>
-
       <section class="section my-services" data-section="section2-2">
         <div class="container">
           <div class="section-heading">
@@ -572,7 +558,6 @@
           </div>
         </div>
       </section>
-
       <section class="section my-work" data-section="section3">
         <div class="container">
           <div class="section-heading">
@@ -678,7 +663,6 @@
           </div>
         </div>
       </section>
-
       <section class="section contact-me" data-section="section4">
         <div class="container">
           <div class="section-heading">
@@ -723,12 +707,8 @@
         </div>
       </section>
     </div>
-
-    <!-- Scripts -->
-    <!-- Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-
     <script src="assets/js/isotope.min.js"></script>
     <script src="assets/js/owl-carousel.js"></script>
     <script src="assets/js/lightbox.js"></script>
@@ -736,14 +716,12 @@
     <script>
       //according to loftblog tut
       $(".main-menu li:first").addClass("active");
-
       var showSection = function showSection(section, isAnimate) {
         var direction = section.replace(/#/, ""),
           reqSection = $(".section").filter(
             '[data-section="' + direction + '"]'
           ),
           reqSectionPos = reqSection.offset().top - 0;
-
         if (isAnimate) {
           $("body, html").animate(
             {
@@ -755,7 +733,6 @@
           $("body, html").scrollTop(reqSectionPos);
         }
       };
-
       var checkSection = function checkSection() {
         $(".section").each(function() {
           var $this = $(this),
@@ -773,12 +750,10 @@
           }
         });
       };
-
       $(".main-menu").on("click", "a", function(e) {
         e.preventDefault();
         showSection($(this).attr("href"), true);
       });
-
       $(window).scroll(function() {
         checkSection();
       });
