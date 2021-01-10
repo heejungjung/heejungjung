@@ -685,6 +685,17 @@
                     </figcaption>
                   </figure>
                 </div>
+                <div class="isotope-item" data-type="project">
+                  <figure class="snip1321">
+                    <img src="assets/images/youngnam.jpg" alt="youngnam"/>
+                    <figcaption>
+                      <a href="assets/images/youngnam.jpg" data-lightbox="youngnam" data-title="Caption">
+                      <i class="fa fa-search"></i></a>
+                      <h4>직업 훈련 이수</h4>
+                      <span>AI활용 소프트웨어 개발 및 응용SW 개발자</span>
+                    </figcaption>
+                  </figure>
+                </div>
                 <div class="isotope-item" data-type="analysis">
                   <figure class="snip1321">
                     <img src="assets/images/timeseries.JPG" alt="timeseries"/>
