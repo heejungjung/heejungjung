@@ -15,8 +15,11 @@
 	.markdown-body h2 {
 	    border-bottom: 0!important;
 	}
-	ul,h3{
+	ul{
 	    padding:0!important;
+	    margin: 0!important;
+	}
+	h3{
 	    margin: 0!important;
 	}
 	.my-5,.px-3 {
