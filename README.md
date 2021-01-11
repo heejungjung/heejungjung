@@ -378,6 +378,18 @@
 		        </div>
 		        <div class="row no-gutters justify-content-end justify-content-md-around align-items-start  timeline-nodes">
 		          <div class="col-10 col-md-5 order-3 order-md-1 timeline-content">
+		            <h3 class=" text-light">👩‍💼 한국감정원</h3>
+		            <p>👉 부동산 데이터 전산입력 및 서류 검토</p>
+		          </div>
+		          <div class="col-2 col-sm-1 px-md-3 order-2 timeline-year text-md-center">
+		            <h6>&nbsp;&nbsp;&nbsp;&nbsp;</h6>
+		          </div>
+		          <div class="col-10 col-md-5 order-1 order-md-3 py-3 timeline-date">
+		            <time>2018-11 ~ 2018-12</time>
+		          </div>
+		        </div>
+		        <div class="row no-gutters justify-content-end justify-content-md-around align-items-start  timeline-nodes">
+		          <div class="col-10 col-md-5 order-3 order-md-1 timeline-content">
 		            <h3 class=" text-light">📃 TOEIC Speaking</h3>
 		            <p>👉 140</p>
 		          </div>
@@ -397,24 +409,12 @@
 		            <h6>&nbsp;&nbsp;&nbsp;&nbsp;</h6>
 		          </div>
 		          <div class="col-10 col-md-5 order-1 order-md-3 py-3 timeline-date">
-		            <time>2018-11 ~ 2018-12</time>
-		          </div>
-		        </div>
-		        <div class="row no-gutters justify-content-end justify-content-md-around align-items-start  timeline-nodes">
-		          <div class="col-10 col-md-5 order-3 order-md-1 timeline-content">
-		            <h3 class=" text-light">👩‍💼 한국감정원</h3>
-		            <p>👉 부동산 데이터 전산입력 및 서류 검토</p>
-		          </div>
-		          <div class="col-2 col-sm-1 px-md-3 order-2 timeline-year text-md-center">
-		            <h6>&nbsp;&nbsp;&nbsp;&nbsp;</h6>
-		          </div>
-		          <div class="col-10 col-md-5 order-1 order-md-3 py-3 timeline-date">
 		            <time>2019-08 ~ 2019-09</time>
 		          </div>
 		        </div>
 		        <div class="row no-gutters justify-content-end justify-content-md-around align-items-start  timeline-nodes">
 		          <div class="col-10 col-md-5 order-3 order-md-1 timeline-content">
-		            <h3 class=" text-light">👩‍💼 Grand SK</h3>
+		            <h3 class=" text-light">👩‍💼 Grand SK(미국 해외 인턴)</h3>
 		            <p>👉 supply 소싱 및 인보이싱</p>
 		          </div>
 		          <div class="col-2 col-sm-1 px-md-3 order-2 timeline-year text-md-center">
