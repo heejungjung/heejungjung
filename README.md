@@ -361,7 +361,7 @@
 		            <h6>&nbsp;&nbsp;&nbsp;&nbsp;</h6>
 		          </div>
 		          <div class="col-10 col-md-5 order-1 order-md-3 py-3 timeline-date">
-		            <time>2018-08</time>
+		            <time>2018-07</time>
 		          </div>
 		        </div>
 		        <div class="row no-gutters justify-content-end justify-content-md-around align-items-start  timeline-nodes">
