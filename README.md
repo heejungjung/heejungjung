@@ -448,6 +448,18 @@
 		            <time>2020-6 ~ 2020-12</time>
 		          </div>
 		        </div>
+		        <div class="row no-gutters justify-content-end justify-content-md-around align-items-start  timeline-nodes">
+		          <div class="col-10 col-md-5 order-3 order-md-1 timeline-content">
+		            <h3 class=" text-light">📃 SQLD</h3>
+		            <p>👉 최종합격</p>
+		          </div>
+		          <div class="col-2 col-sm-1 px-md-3 order-2 timeline-year text-md-center">
+		            <h6>&nbsp;&nbsp;&nbsp;&nbsp;</h6>
+		          </div>
+		          <div class="col-10 col-md-5 order-1 order-md-3 py-3 timeline-date">
+		            <time>2020-12-29</time>
+		          </div>
+		        </div>
 		      </div>
 			</div>
           </div>
