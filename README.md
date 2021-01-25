@@ -450,6 +450,18 @@
 		        </div>
 		        <div class="row no-gutters justify-content-end justify-content-md-around align-items-start  timeline-nodes">
 		          <div class="col-10 col-md-5 order-3 order-md-1 timeline-content">
+		            <h3 class=" text-light">👩‍💻 Comento 빅데이터 직무 부트 캠프</h3>
+		            <p>👉 빅데이터 실무 데이터를 이용하여 전처리부터 분석과정까지 스스로 진행하였고, 현직에 계시는 분으로부터 피드백을 받으며 실무에 대해 좀 더 깊이 이해하고 앞으로의 방향을 수립할 수 있게 된 과정이었습니다.</p>
+		          </div>
+		          <div class="col-2 col-sm-1 px-md-3 order-2 timeline-year text-md-center">
+		            <h6>&nbsp;&nbsp;&nbsp;&nbsp;</h6>
+		          </div>
+		          <div class="col-10 col-md-5 order-1 order-md-3 py-3 timeline-date">
+		            <time>2020-6 ~ 2020-12</time>
+		          </div>
+		        </div>
+		        <div class="row no-gutters justify-content-end justify-content-md-around align-items-start  timeline-nodes">
+		          <div class="col-10 col-md-5 order-3 order-md-1 timeline-content">
 		            <h3 class=" text-light">📃 SQLD</h3>
 		            <p>👉 최종합격</p>
 		          </div>
@@ -669,8 +681,7 @@
                       <h4>효율적 선거운동 지역 모색</h4>
                       <span>QGis, Gephi, Python을 이용한 network를 통해 선거운동을 위한 가장 효율적인 장소 분석 : 
                       	사이트(http://nodelink.its.go.kr/)에서 다운로드 받은 node와 link 파일을 이용,
-						A 지역의 중요성을 보기 위해서는 A 지역을 제외한 지역을 지나는 사람들이 다른 지역으로 이동할 때 얼마나 A를 거쳐 가는 지를 살펴보는 아이디어를 바탕으로
-						노드들 간의 최단 경로를 계산하는 Betweenness Centrality를 구하였다.</span>
+						A 지역의 중요성을 보기 위해서는 A 지역을 제외한 지역을 지나는 사람들이 다른 지역으로 이동할 때 얼마나 A를 거쳐 가는 지를 살펴보는 아이디어를 바탕으로 노드들 간의 최단 경로를 계산하는 Betweenness Centrality를 구하여 선거운동에 효율적인 장소 분석을 수행하였습니다.</span>
                     </figcaption>
                   </figure>
                 </div>
@@ -704,7 +715,7 @@
                       <a href="assets/images/youngnam.jpg" data-lightbox="youngnam" data-title="Caption">
                       <i class="fa fa-search"></i></a>
                       <h4>직업 훈련 이수</h4>
-                      <span>AI활용 소프트웨어 개발 및 응용SW 개발자</span>
+                      <span>AI활용 소프트웨어 개발 및 응용SW 개발자 과정</span>
                     </figcaption>
                   </figure>
                 </div>
