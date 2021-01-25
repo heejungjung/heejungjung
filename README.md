@@ -439,7 +439,7 @@
 		        <div class="row no-gutters justify-content-end justify-content-md-around align-items-start  timeline-nodes">
 		          <div class="col-10 col-md-5 order-3 order-md-1 timeline-content">
 		            <h3 class=" text-light">👩‍💻 직업 훈련 학교 교육 이수</h3>
-		            <p>👉 환경 세팅부터 java,sql,python,html,jquery,jsp.. 등의 언어들을 프로젝트를 통하여 배움으로써, 실무에 대해 좀 더 깊이 이해할 수 있게 된 과정이었습니다.</p>
+		            <p>👉 환경 세팅부터 java,sql,python,javascript,html 등의 언어들을 프로젝트를 통하여 배움으로써, 실무에 대해 좀 더 깊이 이해할 수 있게 된 과정이었습니다.</p>
 		          </div>
 		          <div class="col-2 col-sm-1 px-md-3 order-2 timeline-year text-md-center">
 		            <h6>&nbsp;&nbsp;&nbsp;&nbsp;</h6>
