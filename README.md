@@ -1,3 +1,5 @@
+# [More About Me](https://heejungjung.github.io/AmyJeong/)
+
 ### Data Engineer | Data Analyst
 - SQL, Python, R programming 
 - Data Extraction
@@ -7,8 +9,6 @@
 ### Interest
 - Comunicating with individuals from diverse backgrounds across the globe.
 - Fashion, Beauty, SNS, Video Platform, Music
-
-### [More About Me](https://heejungjung.github.io/AmyJeong/)
 
 <div align=center>
   
