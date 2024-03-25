@@ -8,6 +8,8 @@
 - Comunicating with individuals from diverse backgrounds across the globe.
 - Fashion, Beauty, SNS, Video Platform, Music
 
+### [More About Me](https://heejungjung.github.io/AmyJeong/)
+
 <div align=center>
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heejeong-jeong-6bb41526a/)](https://www.linkedin.com/in/heejeong-jeong-6bb41526a/) 
