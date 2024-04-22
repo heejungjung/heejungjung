@@ -1,13 +1,18 @@
 # [More About Me](https://heejungjung.github.io/AmyJeong/)
 
 ### Data Engineer | Data Analyst
-- SQL, Python, R programming 
 - Data Extraction
 - Data Batch Processing
-- BI Development
+- Data Visualization
+
+### Skills
+- SQL, Python, R programming 
+- Tableau
+- AWS, Airflow
+- Amplitude
 
 ### Interest
-- Comunicating with individuals from diverse backgrounds across the globe.
+- Communicating with individuals from diverse backgrounds across the world.
 - Fashion, Beauty, SNS, Video Platform, Music
 
 <div align=center>
